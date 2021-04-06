@@ -1,0 +1,3 @@
+remote_machine=android-build-machine.c.fit-sb-ukerus-devel.internal
+local_compression_level=1
+remote_compression_level=1

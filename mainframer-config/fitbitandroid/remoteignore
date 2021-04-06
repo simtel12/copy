@@ -1,0 +1,11 @@
+# Usually you don't need to sync sources back from remote to local machine.
+# Btw, this syntax supports multimodule Gradle projects.
+src
+buildSrc/build
+build/intermediates
+build/outputs/aar
+build/intermediates/
+build/kotlin
+build/tmp/kapt3/stubs
+build/tmp/kapt3/classes/debug/META-INF
+.git
